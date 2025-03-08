@@ -1,1 +1,1 @@
-web: gunicorn pdf2word.wsgi:application
+web: gunicorn university.wsgi:application
